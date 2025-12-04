@@ -1,0 +1,5 @@
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.csproj.AssemblyReference.cache
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
