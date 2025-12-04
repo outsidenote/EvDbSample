@@ -10,3 +10,4 @@
 /Users/romabr/projects/EvDbSample/EvDbSample/Abstractions/obj/Debug/net8.0/refint/Abstractions.dll
 /Users/romabr/projects/EvDbSample/EvDbSample/Abstractions/obj/Debug/net8.0/Abstractions.pdb
 /Users/romabr/projects/EvDbSample/EvDbSample/Abstractions/obj/Debug/net8.0/ref/Abstractions.dll
+/Users/romabr/projects/EvDbSample/EvDbSample/Abstractions/obj/Debug/net8.0/Abstractions.sourcelink.json

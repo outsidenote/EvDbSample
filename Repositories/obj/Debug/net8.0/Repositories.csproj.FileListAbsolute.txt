@@ -3,3 +3,14 @@
 /Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfoInputs.cache
 /Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.AssemblyInfo.cs
 /Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.csproj.CoreCompileInputs.cache
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.sourcelink.json
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/bin/Debug/net8.0/Repositories.deps.json
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/bin/Debug/net8.0/Repositories.dll
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/bin/Debug/net8.0/Repositories.pdb
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/bin/Debug/net8.0/Abstractions.dll
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/bin/Debug/net8.0/Abstractions.pdb
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Reposito.787EC4B2.Up2Date
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.dll
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/refint/Repositories.dll
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/Repositories.pdb
+/Users/romabr/projects/EvDbSample/EvDbSample/Repositories/obj/Debug/net8.0/ref/Repositories.dll
